@@ -1,0 +1,1154 @@
+[
+    {
+        "Title": "Louisville Spawnpoints",
+        "Workshop IDs": [
+            "2678653895"
+        ],
+        "Mod IDs": [
+            "LouisVille SP"
+        ],
+        "Map Folder": "Louisville, KY",
+        "Cell": null
+    },
+    {
+        "Title": "Fort Angel",
+        "Workshop IDs": [
+            "2924052791"
+        ],
+        "Mod IDs": [
+            "FortAngel"
+        ],
+        "Map Folder": "FortAngel",
+        "Cell": null
+    },
+    {
+        "Title": "Exotics Rest Area",
+        "Workshop IDs": [
+            "2967216697"
+        ],
+        "Mod IDs": [
+            "LyzzExotics"
+        ],
+        "Map Folder": null,
+        "Cell": "23:37"
+    },
+    {
+        "Title": "SuperGigaMart",
+        "Workshop IDs": [
+            "2878074695"
+        ],
+        "Mod IDs": [
+            "SuperGigaMart"
+        ],
+        "Map Folder": "SuperGigaMart",
+        "Cell": null
+    },
+    {
+        "Title": "Hyrule County",
+        "Workshop IDs": [
+            "2799194382"
+        ],
+        "Mod IDs": [
+            "Hyrule County",
+            "Hyrule County"
+        ],
+        "Map Folder": "Hyrule County",
+        "Cell": null
+    },
+    {
+        "Title": "Nettle Township",
+        "Workshop IDs": [
+            "2965081618"
+        ],
+        "Mod IDs": [
+            "Nettle Township"
+        ],
+        "Map Folder": "Nettle Township",
+        "Cell": null
+    },
+    {
+        "Title": "TWD Prison",
+        "Workshop IDs": [
+            "2659899728"
+        ],
+        "Mod IDs": [
+            "TWD Prison"
+        ],
+        "Map Folder": "Prison",
+        "Cell": null
+    },
+    {
+        "Title": "Rabbit Hash, KY",
+        "Workshop IDs": [
+            "2815966702"
+        ],
+        "Mod IDs": [
+            "RabbitHashKY"
+        ],
+        "Map Folder": "RabbitHashKY",
+        "Cell": null
+    },
+    {
+        "Title": "Over the River",
+        "Workshop IDs": [
+            "926737806"
+        ],
+        "Mod IDs": [
+            "Otr"
+        ],
+        "Map Folder": "Otr",
+        "Cell": null
+    },
+    {
+        "Title": "Bourstrange",
+        "Workshop IDs": [
+            "2968600175"
+        ],
+        "Mod IDs": [
+            "Bourstrange"
+        ],
+        "Map Folder": "GargisnarBourstrange",
+        "Cell": null
+    },
+    {
+        "Title": "The Compound",
+        "Workshop IDs": [],
+        "Mod IDs": [],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "XP Drops - Oldschool Runescape",
+        "Workshop IDs": [
+            "2758443202"
+        ],
+        "Mod IDs": [
+            "RUNE-EXP"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Danger Zone (State of Emergency)",
+        "Workshop IDs": [
+            "2703396193"
+        ],
+        "Mod IDs": [
+            "DangerZoneStateOfEmergency"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Axe Overhaul",
+        "Workshop IDs": [
+            "2679338204"
+        ],
+        "Mod IDs": [
+            "AxeOverhaul"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Trelai_4x4 Riverside Expansion",
+        "Workshop IDs": [
+            "2800337234"
+        ],
+        "Mod IDs": [
+            "Trelai_4x4_Steam"
+        ],
+        "Map Folder": "Trelai_storyspawn",
+        "Cell": null
+    },
+    {
+        "Title": "Muldraugh Military Base",
+        "Workshop IDs": [
+            "2706673644"
+        ],
+        "Mod IDs": [
+            "muldraughmilitarybase"
+        ],
+        "Map Folder": "Muldraugh Military Base",
+        "Cell": null
+    },
+    {
+        "Title": "DIY Vehicle Parts!",
+        "Workshop IDs": [
+            "2795814840"
+        ],
+        "Mod IDs": [
+            "DIY_VehicleParts!",
+            "DIY_VehicleParts!_GlassWindow"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Food Preservation Plus",
+        "Workshop IDs": [
+            "2890748284"
+        ],
+        "Mod IDs": [
+            "FoodPreservationPlus"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Ultimate Music Pack",
+        "Workshop IDs": [
+            "2716415728"
+        ],
+        "Mod IDs": [
+            "Ultimate Music Pack"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Steam Powered Generator",
+        "Workshop IDs": [
+            "2762648316"
+        ],
+        "Mod IDs": [
+            "SteamPoweredGenerator"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Autotsar Trailers - Hauler",
+        "Workshop IDs": [
+            "2992677535"
+        ],
+        "Mod IDs": [
+            "ATT_Hauler"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Pomp's Items - Just the Food",
+        "Workshop IDs": [
+            "2792348686"
+        ],
+        "Mod IDs": [
+            "PompsItemsFood"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "The Engineer",
+        "Workshop IDs": [
+            "2906633595"
+        ],
+        "Mod IDs": [
+            "TheEngineer"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Night Vision Goggles",
+        "Workshop IDs": [
+            "2769995104",
+            "2769995104"
+        ],
+        "Mod IDs": [
+            "NVG",
+            "NVG"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "First Aid Overhaul",
+        "Workshop IDs": [
+            "3028261329"
+        ],
+        "Mod IDs": [
+            "BB_FirstAidOverhaul",
+            "BB_FirstAidOverhaul_Alt"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Tread's Military Vehicle Zone Defs (Spawns) [41.65+]",
+        "Workshop IDs": [
+            "2739565754"
+        ],
+        "Mod IDs": [
+            "TreadsMilitaryVehicleDefs"
+        ],
+        "Map Folder": "TreadsMilitaryVehicleZoneDefs",
+        "Cell": null
+    },
+    {
+        "Title": "Rope Climbing & Jumping",
+        "Workshop IDs": [
+            "3002239837"
+        ],
+        "Mod IDs": [
+            "SheetRopeClimbingJumping"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "The Frigate",
+        "Workshop IDs": [
+            "2991291149"
+        ],
+        "Mod IDs": [
+            "The Frigate"
+        ],
+        "Map Folder": "The Frigate",
+        "Cell": null
+    },
+    {
+        "Title": "XM93 CBRN",
+        "Workshop IDs": [
+            "2782916396"
+        ],
+        "Mod IDs": [
+            "XM93"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Vehicle Salvage",
+        "Workshop IDs": [
+            "1424059402"
+        ],
+        "Mod IDs": [
+            "VehicleSalvage"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Rideable Truckbed",
+        "Workshop IDs": [
+            "2877551501"
+        ],
+        "Mod IDs": [
+            "rideabletrucks"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Rosewood VHS & Gun Stores",
+        "Workshop IDs": [
+            "2922087098"
+        ],
+        "Mod IDs": [
+            "RosewoodVHSGunStores"
+        ],
+        "Map Folder": "Rosewood VHS Store",
+        "Cell": null
+    },
+    {
+        "Title": "Computer",
+        "Workshop IDs": [
+            "2635550102"
+        ],
+        "Mod IDs": [
+            "Computer",
+            "ComputerClassicsGamePack",
+            "ComputerCorporalsGamePack",
+            "ComputerGTAGamePack"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Random Zombies",
+        "Workshop IDs": [
+            "2818577583"
+        ],
+        "Mod IDs": [
+            "BLTRandomZombies"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'80 Kawasaki Kz1000 Police",
+        "Workshop IDs": [
+            "2818847163"
+        ],
+        "Mod IDs": [
+            "80kz1000"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Bedford Falls",
+        "Workshop IDs": [
+            "522891356"
+        ],
+        "Mod IDs": [
+            "BedfordFalls"
+        ],
+        "Map Folder": "West",
+        "Cell": null
+    },
+    {
+        "Title": "Tread's Water Tank Trucks [41.65+]",
+        "Workshop IDs": [
+            "2719592131"
+        ],
+        "Mod IDs": [
+            "RS_WaterCistern",
+            "RS_WaterCistern_FR_Overwrite",
+            "RS_WaterCistern_KI5_Addon"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Scrap Armor!",
+        "Workshop IDs": [
+            "2658619264"
+        ],
+        "Mod IDs": [
+            "ScrapArmor(new version)"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Dive Through Windows",
+        "Workshop IDs": [
+            "2891779083"
+        ],
+        "Mod IDs": [
+            "diveThroughWindows"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Stop, Drop 'n Roll (the \"Fire Self-Extinguish\" Mod)!",
+        "Workshop IDs": [
+            "2908614026"
+        ],
+        "Mod IDs": [
+            "DropRollMod"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Tactical Sheaths",
+        "Workshop IDs": [
+            "2839025395"
+        ],
+        "Mod IDs": [
+            "TKS"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'82 Jeep J10",
+        "Workshop IDs": [
+            "2886832257"
+        ],
+        "Mod IDs": [
+            "82jeepJ10",
+            "82jeepJ10t"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'88 Chevrolet S10",
+        "Workshop IDs": [
+            "2886832936"
+        ],
+        "Mod IDs": [
+            "88chevyS10"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Ladders!?",
+        "Workshop IDs": [
+            "2737665235"
+        ],
+        "Mod IDs": [
+            "Ladders"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "GunFighter Radial Menu",
+        "Workshop IDs": [
+            "2884558190"
+        ],
+        "Mod IDs": [
+            "GunFighter_Radial_Menu"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "SWAT & RIOT PACK for BUILD[41.66b++]",
+        "Workshop IDs": [
+            "2091564445",
+            "2091564445"
+        ],
+        "Mod IDs": [
+            "Swatpack",
+            "Swatpack"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Noir's Attachments",
+        "Workshop IDs": [
+            "2754567348"
+        ],
+        "Mod IDs": [
+            "nattachments"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "The Workshop",
+        "Workshop IDs": [
+            "2680473910"
+        ],
+        "Mod IDs": [
+            "TheWorkshop(new version)"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Canteens And Bottles",
+        "Workshop IDs": [
+            "2863949128"
+        ],
+        "Mod IDs": [
+            "CanteensAndBottles"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "FuelAPI",
+        "Workshop IDs": [
+            "2688538916"
+        ],
+        "Mod IDs": [
+            "FuelAPI"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'78 AM General M35A2 + M49A2C + M50A3 + M62",
+        "Workshop IDs": [
+            "2799152995"
+        ],
+        "Mod IDs": [
+            "78amgeneralM35A2",
+            "78amgeneralM49A2C",
+            "78amgeneralM50A3",
+            "78amgeneralM62"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Boredom Tweaks",
+        "Workshop IDs": [
+            "2725360009"
+        ],
+        "Mod IDs": [
+            "BoredomTweaks"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Autotsar Motorclub",
+        "Workshop IDs": [
+            "2778576730"
+        ],
+        "Mod IDs": [
+            "amclub"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Simple Status",
+        "Workshop IDs": [
+            "2867431511"
+        ],
+        "Mod IDs": [
+            "simpleStatus"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Scrap Guns",
+        "Workshop IDs": [
+            "2125659488"
+        ],
+        "Mod IDs": [
+            "ScrapGuns(new version)"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'90 Pierce Arrow Pumper",
+        "Workshop IDs": [
+            "2942793445"
+        ],
+        "Mod IDs": [
+            "90pierceArrow"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Fitness & Workout Overhaul",
+        "Workshop IDs": [
+            "2940354599"
+        ],
+        "Mod IDs": [
+            "FWOFitnessWorkoutOverhaul",
+            "FWOBenchPress&Treadmill"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Scrap Weapons!",
+        "Workshop IDs": [
+            "2122265954"
+        ],
+        "Mod IDs": [
+            "ScrapWeapons(new version)"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Containers!",
+        "Workshop IDs": [
+            "2625625421"
+        ],
+        "Mod IDs": [
+            "isoContainers"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Sleeping Bags!",
+        "Workshop IDs": [
+            "2714848168"
+        ],
+        "Mod IDs": [
+            "PwSleepingbags"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Sapph's Cooking [41.78+]",
+        "Workshop IDs": [
+            "2832136889"
+        ],
+        "Mod IDs": [
+            "sapphcooking",
+            "sapphcookingbettersorting"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Military Ponchos",
+        "Workshop IDs": [
+            "2629286881"
+        ],
+        "Mod IDs": [
+            "MilPoncho"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Arsenal[26] GunFighter Mod [2.0]",
+        "Workshop IDs": [
+            "2297098490"
+        ],
+        "Mod IDs": [
+            "Arsenal(26)GunFighter[MAIN MOD 2.0]",
+            "Arsenal(26)GunFighter"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Repair Any Clothes",
+        "Workshop IDs": [
+            "2142622992"
+        ],
+        "Mod IDs": [
+            "RepairAnyClothes",
+            "RepairAnyMod"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'82 Oshkosh M911 + Military Semi-Trailers",
+        "Workshop IDs": [
+            "2618213077"
+        ],
+        "Mod IDs": [
+            "82oshkoshM911"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "STALKER Armor Pack",
+        "Workshop IDs": [
+            "2831715402"
+        ],
+        "Mod IDs": [
+            "StalkerArmorPack"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Noir's Rifle Slings",
+        "Workshop IDs": [
+            "2786499395"
+        ],
+        "Mod IDs": [
+            "noirrsling"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Authentic Z",
+        "Workshop IDs": [
+            "2335368829"
+        ],
+        "Mod IDs": [
+            "AuthenticZBackpacks+",
+            "Authentic Z - Current",
+            "AuthenticZLite"
+        ],
+        "Map Folder": "AZSpawn",
+        "Cell": null
+    },
+    {
+        "Title": "Clean dirt",
+        "Workshop IDs": [
+            "2711057211"
+        ],
+        "Mod IDs": [
+            "CleanDirt"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Water Dispenser",
+        "Workshop IDs": [
+            "2687798127"
+        ],
+        "Mod IDs": [
+            "WaterDispenser",
+            "WaterDispenserDisabler"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Rain Cleans Blood",
+        "Workshop IDs": [
+            "2956146279"
+        ],
+        "Mod IDs": [
+            "RainCleansBlood"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Brita's Weapon Pack",
+        "Workshop IDs": [
+            "2200148440"
+        ],
+        "Mod IDs": [
+            "Brita"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Spongie's Clothing",
+        "Workshop IDs": [
+            "2684285534",
+            "2684285534"
+        ],
+        "Mod IDs": [
+            "SpnCloth",
+            "SpnClothHideFix",
+            "SpnCloth",
+            "SpnClothHideFix"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Bushcraft Gear - Tools",
+        "Workshop IDs": [
+            "2423906082"
+        ],
+        "Mod IDs": [
+            "BCGTools"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Become Desensitized",
+        "Workshop IDs": [
+            "2627877543"
+        ],
+        "Mod IDs": [
+            "BecomeDesensitized"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Working Masks",
+        "Workshop IDs": [
+            "2760742937"
+        ],
+        "Mod IDs": [
+            "WorkingMasks"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Rain Wash",
+        "Workshop IDs": [
+            "2657661246"
+        ],
+        "Mod IDs": [
+            "RainWash"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Manage Containers",
+        "Workshop IDs": [
+            "2650547917"
+        ],
+        "Mod IDs": [
+            "manageContainers"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Brita's Armor Pack",
+        "Workshop IDs": [
+            "2460154811"
+        ],
+        "Mod IDs": [
+            "Brita_2"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Combat Text (B40+B41)",
+        "Workshop IDs": [
+            "2286124931"
+        ],
+        "Mod IDs": [
+            "CombatText"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "'92 AM General M998 + M101A3 Cargo trailer",
+        "Workshop IDs": [
+            "2642541073"
+        ],
+        "Mod IDs": [
+            "92amgeneralM998"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "RV Interior",
+        "Workshop IDs": [
+            "2822286426"
+        ],
+        "Mod IDs": [
+            "RV_Interior_MP",
+            "RV_Interior_Vanilla"
+        ],
+        "Map Folder": "vehicle_interior",
+        "Cell": null
+    },
+    {
+        "Title": "Fuel Side Indicator",
+        "Workshop IDs": [
+            "2616986064"
+        ],
+        "Mod IDs": [
+            "fuelsideindicator"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Draw On The Map - Free Hand Drawing",
+        "Workshop IDs": [
+            "2804531012"
+        ],
+        "Mod IDs": [
+            "DRAW_ON_MAP"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Autotsar Trailers",
+        "Workshop IDs": [
+            "2282429356"
+        ],
+        "Mod IDs": [
+            "autotsartrailers"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Map Symbol Size Slider",
+        "Workshop IDs": [
+            "2734705913"
+        ],
+        "Mod IDs": [
+            "MapSymbolSizeSlider"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Basements",
+        "Workshop IDs": [
+            "2849247394"
+        ],
+        "Mod IDs": [
+            "Basements"
+        ],
+        "Map Folder": "Basements",
+        "Cell": null
+    },
+    {
+        "Title": "Extra Map Symbols",
+        "Workshop IDs": [
+            "2701170568"
+        ],
+        "Mod IDs": [
+            "ExtraMapSymbols",
+            "ExtraMapSymbolsUI"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Backpack Borders",
+        "Workshop IDs": [
+            "2808679062"
+        ],
+        "Mod IDs": [
+            "VISIBLE_BACKPACK_BACKGROUND"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Weapon Condition Indicator [41.60+]",
+        "Workshop IDs": [
+            "2619072426"
+        ],
+        "Mod IDs": [
+            "TheStar"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Mod Options (Build 41)",
+        "Workshop IDs": [
+            "2169435993"
+        ],
+        "Mod IDs": [
+            "modoptions"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Better Sorting",
+        "Workshop IDs": [
+            "2313387159"
+        ],
+        "Mod IDs": [
+            "BetterSortCC"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Just Throw Them Out The Window",
+        "Workshop IDs": [
+            "2659216714"
+        ],
+        "Mod IDs": [
+            "OutTheWindow"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Mod Manager",
+        "Workshop IDs": [
+            "2694448564"
+        ],
+        "Mod IDs": [
+            "ModManager"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Map Legend UI",
+        "Workshop IDs": [
+            "2710167561"
+        ],
+        "Mod IDs": [
+            "MapLegendUI"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Common Sense",
+        "Workshop IDs": [
+            "2875848298"
+        ],
+        "Mod IDs": [
+            "BB_CommonSense"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Monmouth County",
+        "Workshop IDs": [
+            "2887123503"
+        ],
+        "Mod IDs": [
+            "MonmouthCounty_new",
+            "MonmouthCountyTributeLegacy"
+        ],
+        "Map Folder": "MonmouthCounty",
+        "Cell": null
+    },
+    {
+        "Title": "Occupations Expertises & Balance",
+        "Workshop IDs": [
+            "2729436580"
+        ],
+        "Mod IDs": [
+            "OccupationsExpertises"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Ammocraft B41",
+        "Workshop IDs": [
+            "2245813444"
+        ],
+        "Mod IDs": [
+            "ammocraft",
+            "ammocraftfirearms"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Ammo Loot Drop Brita Arsenal \u2013 Zombies Drop Ammo",
+        "Workshop IDs": [
+            "2969307279"
+        ],
+        "Mod IDs": [
+            "AmmoLootDropBritaArsenal",
+            "AmmoLootDropBritaArsenalLeast",
+            "AmmoLootDropBritaArsenalLess",
+            "AmmoLootDropBritaArsenalMore"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "20% metal weight",
+        "Workshop IDs": [
+            "2826322136"
+        ],
+        "Mod IDs": [
+            "20%metalweight"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    },
+    {
+        "Title": "Skill Recovery Journal (GAMMA)",
+        "Workshop IDs": [
+            "2734189587"
+        ],
+        "Mod IDs": [
+            "SkillRecoveryJournalGamma"
+        ],
+        "Map Folder": null,
+        "Cell": null
+    }
+]
